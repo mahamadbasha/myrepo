@@ -1,0 +1,19 @@
+git init  
+mkdir oia
+cd ola
+git init
+touch file {1..5}
+ll
+git add file*
+git status
+git commit -m "commit-1" file*
+git log 
+git branch
+git branch ola
+git checkout ola
+git branch
+ll
+touch redbus {1..5}
+git add .
+git commit -m "my commit-1"ola*
+git status
